@@ -1,0 +1,105 @@
+body{
+    background-color: black;
+    color: rgb(12, 110, 239);
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    text-align: center;
+    padding: 16px;
+    font-family:'Courier New', Courier, monospace
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+header img{
+    width: 150px;
+    height: 160px;
+    border-radius: 80px;
+    border: 1px solid rgb(2, 2, 2);
+
+}
+
+.center{
+    text-align: center;
+}
+
+footer img{
+    width: 50px;
+    height: 50px;
+    border-radius: 80px;
+    border: 1px solid rgb(0, 0, 0);
+    
+
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+footer a{
+    margin: 20px;
+}
+
+p{
+    margin: 20px;
+}
+
+.container{
+    padding: 0px 50px;
+}
+
+body{
+    background-color: rgb(23, 133, 127);
+    color: rgb(254, 254, 255);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    flex-direction: column;
+
+}
+
+input{
+    height: 80px;
+    width: 500px;
+
+}
+
+h3{
+    font-size: 30px;
+}
+ 
+main{
+    margin-bottom: 200px;
+}
+ul{
+    display:flex;
+    margin-left: 0;
+}
+
+.mim{
+    font-size: 25px;
+}
+
+h1{
+    font-size: 35px;
+}

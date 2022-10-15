@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(23, 133, 127);
+    color: rgb(252, 252, 252);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    flex-direction: column;
+
+}
+
+input{
+    height: 80px;
+    width: 500px;
+
+}
+
+h3{
+    
+    font-size: 50px;
+}
